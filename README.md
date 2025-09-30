@@ -15,8 +15,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/i_llmakeumine)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/divyans-hu/)
 
+![Car Animation](https://usagif.com/wp-content/uploads/2020/06/Driving-in-the-middle-of-the-road-in-the-sunset-direction.gif)
 
-![Car Animation](https://media.giphy.com/media/3o7aD6vQ8OTq9ok2dK/giphy.gif)
 
 <!-- 👯 I’m looking to collaborate on MySuccess... ->
 - 🔭 I’m currently working on Telegram, Discord...
