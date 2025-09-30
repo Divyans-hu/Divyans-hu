@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Divyans-hu ](https://github-readme-stats.vercel.app/api?username=Divyans-hu&show_icons=true&theme=radical)
+
 
 - 🔭 I’m currently working on Telegram, Discord...
 - 🌱 I’m currently learning automation...
